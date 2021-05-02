@@ -1,2 +1,1 @@
-# WebDev-CoolButton
-A simple button using some basic CSS properties 
+A simple button using some basic CSS properties
